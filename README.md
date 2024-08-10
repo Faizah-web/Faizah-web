@@ -1,8 +1,8 @@
 - #👋 Hi, I’m Fa'iza Bindawa- 👀 I’m interested in data analytics 
-- ##🌱 I’m currently learning data analytics:SQL,Tableue,Power bi with Dahel Techie
-- ##💞️ I’m looking to collaborate on data analytics 
+- ##🌱 I’m currently learning data analytics:SQL,Tableau,Power BI with Dahel Techies
+- ##💞️ I’m looking to collaborate on data analytics project
 - ##📫 How to reach me faizah2109@gmail.com
-- ##😄 Pronouns: she 
+- ##😄 Pronouns: she/Her
 - ##⚡ Fun fact:love to work with people 
 
 
