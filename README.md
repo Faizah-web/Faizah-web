@@ -3,7 +3,7 @@
 - ##💞️ I’m looking to collaborate on data analytics project
 - ##📫 How to reach me faizah2109@gmail.com
 - ##😄 Pronouns: she/Her
-- ##⚡ Fun fact:love to work with people 
+- ##⚡ Fun fact:I love to work with people.
 
 
 Faizah-web/Faizah-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
